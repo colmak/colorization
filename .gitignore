@@ -131,3 +131,5 @@ cython_debug/
 
 # Ignore Visual Studio Code settings
 .vscode/
+
+colorization_release_v2.caffemodel
